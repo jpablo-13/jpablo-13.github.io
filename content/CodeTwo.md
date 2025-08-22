@@ -1,11 +1,12 @@
-
 ---
-title: CodeTwo - HTB
+title: Code Two
 draft: true
 tags:
   - HTB
-  - Writeups
+  - Writeup
 ---
+
+
 
 
 CodeTwo is an easy rated machine where we have to do a little bit of source code analysis in order to find a way in. Then, we obtain the password hashes for the user `marco` on the web application. After cracking the hash for `marco`, we can ssh into the box as this user. Since this user has `sudo` privileges to run a backup utility, it's possible to run it with a custom config file that runs arbitrary commands, getting a `root` shell.

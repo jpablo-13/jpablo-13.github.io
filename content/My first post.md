@@ -1,6 +1,6 @@
 ---
 title: My first post
-draft: false
+draft: true
 tags:
   -
 ---
