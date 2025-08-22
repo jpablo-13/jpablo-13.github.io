@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: jpablo
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is the place where I write things down that I find interesting, think will be helpful, or simply want to share them.
